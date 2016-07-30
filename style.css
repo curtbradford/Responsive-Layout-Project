@@ -243,8 +243,12 @@ a:link {
     
     .main-nav {
         float: right;
-        margin-right: -45px;
+        margin-right: -20px;
         margin-top: 20px;
+    }
+    
+    .main-nav a{
+        padding: 10px 10px;
     }
     
     .person-info {
